@@ -2,7 +2,7 @@
 # Problem Statement:
 Booking a bus can be a time-consuming and stressful task, requiring users to navigate multiple websites and offline booking counters to find the best deal. This process can be especially challenging for individuals who are not familiar with the travel industry or are not tech-savvy. Additionally, users may have to deal with unreliable payment systems or security issues when booking their buses online, further complicating the process.
 # Methodology:
-The methodology for the Bus Booking website involves using Django for the backend and HTML/CSS for the frontend. User account creation is implemented through a registration form, Ticket cancellation is facilitated through a cancellation form, and users can view their previously booked tickets, both confirmed and cancelled. As-you-type search functionality is also implemented to help users find bus information quickly and easily.
+The methodology for the Bus Booking website involves using Django for the backend and HTML/CSS for the frontend. 
 1. User Account Creation:
 The methodology for user account creation likely involves implementing a registration form that collects the user's personal information, such as their username, email address, and password. The form data is then processed by the Django backend, which validates the data and creates a new user account in the database. The website may also implement user authentication and authorization using Django's built-in user authentication system, which allows users to log in and access certain pages or features of the website based on their user role.
 2. Ticket Booking:
